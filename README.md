@@ -1,3 +1,3 @@
 # Demo
 
-some plane tesxt
+some plane text
